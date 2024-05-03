@@ -14,7 +14,7 @@ Controlling the weapon selection:
 
 Controlling the weapons:
 
-  "B" fires the selected weaponry
+  "A" fires the selected weaponry
 
       Quick Link: Weapons Guide
 
